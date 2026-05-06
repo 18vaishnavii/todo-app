@@ -11,8 +11,8 @@ This project demonstrates core frontend development skills including state manag
 
 ## 🛠️ Tech Stack
 - ReactJS (Vite setup)
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript (ES6+)
 
 ## 📂 Project Structure
